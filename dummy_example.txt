@@ -1,0 +1,34 @@
+The functioning of
+networked systems is crucially dependent on the connectivity
+between nodes that enables them to function cooperatively as
+a network, e.g., airline routes, electric power grids, and the
+Internet [25]. Here we choose the nodes of the giant connected
+components to be the target node sets. There are four types of
+giant connected components [23,27,28] in a directed network:
+(1) giant weakly connected components (GWCCs) in which
+each pair of nodes can connect via a path irrespective of the
+directionality of the link, (2) giant strongly connected components
+(GSCCs), in which each pair of nodes can connect by directed
+paths, (3) giant in-components (GINs), the set of nodes
+from which the GSCC are approachable by directed paths;
+and (4) the giant out-components (GOUTs), the set of nodes
+approachable from the GSCCs by directed paths. A theoretical
+tool for analyzing the controllability of the giant components
+of an arbitrary complex network remains an open problem.
+When
+the fraction of the remaining nodes p increases from zero
+to one, the minimum driver node density first increases and
+then decreases, showing a peak at a critical point p = pm for
+both Erd˝os-Rényi (ER) networks and scale-free (SF) networks.
+In particular, for each type of giant component in a ER
+network, the peak value gDm is determined by the product
+of the fraction of the remaining nodes and the average degree
+pk, indicating that for each giant component pmk is a
+constant value. Thus, the critical point pm has a reciprocal
+relation with the average degree k. The critical threshold
+pc characterizing the system robustness has captured plenty of
+attention from scientists [23,27,33,37,38]. The critical fraction
+pm at which the minimum driver node density required to
+control the giant component reaches its maximum value also
+characterizes the robustness of the controllability of the giant
+component. If p > 7, then it is a success; however, if p < 7, we must repeat the trial.
